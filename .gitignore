@@ -1,1 +1,5 @@
-/mmsegmentation
+mmsegmentation/
+dataset/ann_dir/
+dataset/img_dir/
+dataset/imaterialist-fashion-2020-fgvc7/
+weights/

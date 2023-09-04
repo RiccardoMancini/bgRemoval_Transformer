@@ -19,6 +19,10 @@ evaluation metrics for semantic image segmentation. In the end,
 if the results obtained were satisfactory, it procedeed with the
 removal of the background from another set of images other
 than those used for training phases.
+&nbsp;&nbsp;
+[Read more here](./project-paper.pdf)
+
+
 ## Requirements
 - pytorch
 - mmcv; install the correct version based on your cuda version -> (https://github.com/open-mmlab/mmcv)
